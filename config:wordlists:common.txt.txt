@@ -1,0 +1,1 @@
+robots.txt sitemap.xml security.txt .well-known/security.txt .well-known/change-password api/v1 graphql admin.php wp-admin wp-login.php .git/HEAD
