@@ -1,0 +1,9 @@
+scans/
+logs/
+*.log
+*.tar.gz
+*.zip
+.DS_Store
+__pycache__/
+.ssh/
+.DS_Store
